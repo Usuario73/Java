@@ -1,9 +1,7 @@
 
 ---
 
-# Bem-vindo ao Sistema de Exercícios em Java!
-
-Neste repositório, você encontrará uma série de exercícios resolvidos em Java, destinados a ajudá-lo a praticar os conceitos básicos da linguagem de programação Java.
+# Exercícios em Java
 
 ## O que você vai encontrar aqui?
 
