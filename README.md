@@ -1,4 +1,3 @@
-Claro, aqui está um exemplo de como você pode criar um README para o GitHub, abordando os exercícios de 01 a 08:
 
 ---
 
