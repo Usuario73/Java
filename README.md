@@ -37,21 +37,3 @@ Um sistema para ajudar uma pizzaria a gerenciar seu estoque, permitindo adiciona
 
 Um sistema para facilitar o registro de pedidos em uma pizzaria, permitindo que você adicione pizzas ao seu pedido, cancele pedidos e gere relatórios sobre os pedidos realizados.
 
-## Como executar os exercícios?
-
-Cada exercício está em um arquivo Java separado. Para executar qualquer um deles, basta compilar o arquivo Java correspondente e executar o programa resultante. 
-
-Por exemplo, para executar o Exercício 01:
-
-```bash
-javac Exercicio01.java
-java Exercicio01
-```
-
-Repita o processo para os outros exercícios, substituindo o número do exercício no nome do arquivo conforme necessário.
-
-## Contribuições
-
-Contribuições são muito bem-vindas! Sinta-se à vontade para abrir uma issue para discutir novas ideias ou enviar um pull request com melhorias nos exercícios existentes.
-
----
